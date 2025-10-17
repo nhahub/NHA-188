@@ -57,11 +57,4 @@ This document explains the design and steps of our data ingestion pipeline, incl
 3. **Enrichment & Visualization**  
    Final datasets are stored in the **Enriched Zone** for reporting, dashboards, and ML.
 
----
 
-## 📌 Next Steps
-- Automate batch processing with **Airflow operators**.  
-- Set up Kafka + Flink streaming jobs for clickstream data.  
-- Integrate visualization dashboards.  
-
----
