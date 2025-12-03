@@ -8,7 +8,7 @@ This project aims to build an **End-to-End Data & AI Platform** that covers the 
 3. **ETL / Data Transformation** using Apache Airflow & Azure Data Factory.  
 4. **Analytics** with Batch processing (Apache Spark) and Streaming processing (Apache Flink).  
 5. **Machine Learning** models for customer behavior prediction (e.g., churn detection).  
-6. **Visualization & Dashboards** through Power BI, Grafana, and Streamlit.  
+6. **Visualization & Dashboards** through Power BI, and Streamlit.  
 
 ---
 
