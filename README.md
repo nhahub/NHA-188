@@ -26,7 +26,8 @@ It includes:
 <table align="center">
   <tr>
     <td align="center">
-      <b>Abdullah Ibrahim </b><br>
+      <b>Team Leader </b><br>
+      <b>Abdullah Ibrahim Mahmoud </b><br>
       <a href="https://www.linkedin.com/in/abdullah-a-ibrahim">LinkedIn</a> |
       <a href="https://github.com/ABDULLAH-ibrahimm">GitHub</a> 
     </td>
