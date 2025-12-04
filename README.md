@@ -32,26 +32,27 @@ It includes:
       <a href="https://github.com/ABDULLAH-ibrahimm">GitHub</a> 
     </td>
     <td align="center">
-      <b></b><br>
-      <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> |
-      <a href="https://github.com/USERNAME">GitHub</a>   
+     <br>
+      <b>Mansour Mohamed Mansour</b><br>
+      <a href="https://www.linkedin.com/in/mansour-mohamed74">LinkedIn</a> |
+      <a href="https://github.com/Mansourmohamed1">GitHub</a> 
     </td>
-    <td align="center">
-      <b></b><br>
-      <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> |
-      <a href="https://github.com/USERNAME">GitHub</a> 
+     <td align="center">
+      <b></b>Ezzeldeen Elsayed Mohammed Abdelhamid<br>
+      <a href="https://linkedin.com/in/ezzeldeen-farahat">LinkedIn</a> |
+      <a href="https://github.com/Ezz194">GitHub</a> 
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b></b><br>
-      <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> |
-      <a href="https://github.com/USERNAME">GitHub</a> 
+      <b></b>Ahmed Mohamed Ahmed Diefallah<br>
+      <a href="https://linkedin.com/in/ahmed-diefallah">LinkedIn</a> |
+      <a href="https://github.com/ahmeddif900">GitHub</a> 
     </td>
     <td align="center">
-      <b></b><br>
-      <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> |
-      <a href="https://github.com/USERNAME">GitHub</a> 
+      <b></b>Jessica Ashraf Anis<br>
+      <a href="https://www.linkedin.com/in/jessica-ashraf">LinkedIn</a> |
+      <a href="https://github.com/jessicaAshraf">GitHub</a> 
     </td>
   </tr>
 </table>
