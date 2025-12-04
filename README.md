@@ -26,19 +26,16 @@ It includes:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/team/medhat.jpg" width="140px"><br>
       <b>Abdullah Ibtahim </b><br>
       <a href="https://www.linkedin.com/in/abdullah-a-ibrahim">LinkedIn</a> |
       <a href="https://github.com/ABDULLAH-ibrahimm">GitHub</a> 
     </td>
     <td align="center">
-      <img src="assets/team/rawan.jpg" width="140px"><br>
       <b></b><br>
       <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> |
       <a href="https://github.com/USERNAME">GitHub</a>   
     </td>
     <td align="center">
-      <img src="assets/team/george.jpg" width="140px"><br>
       <b></b><br>
       <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> |
       <a href="https://github.com/USERNAME">GitHub</a> 
@@ -46,13 +43,11 @@ It includes:
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/team/farah.jpg" width="140px"><br>
       <b></b><br>
       <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> |
       <a href="https://github.com/USERNAME">GitHub</a> 
     </td>
     <td align="center">
-      <img src="assets/team/david.jpg" width="140px"><br>
       <b></b><br>
       <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> |
       <a href="https://github.com/USERNAME">GitHub</a> 
