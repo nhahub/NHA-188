@@ -64,7 +64,12 @@ It includes:
 ![architecture](orchestration.png)
 
 The platform follows a **6-stage architecture**, each performing a critical role in the data and AI lifecycle.
+The diagram shows multiple technologies, but in the actual implementation:
 
+🔹 I did not work with Apache Flink or ADF Pipelines
+🔹 The work was mainly done using GCP + Airflow + Spark
+
+So the diagram is conceptual, not a literal representation of the used tools.
 ---
 
 # 🔷 Stage 1 — Data Sources (Collection Layer)
