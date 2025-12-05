@@ -1,4 +1,4 @@
-# 🚀 End-to-End Big Data & AI Platform
+# 🚀 End-to-End Enterprise Big Data & AI Platform for Churn, Clickstream Behavior and Sentiment Prediction
 
 A complete **Enterprise-Grade Data & AI Platform** that processes large-scale datasets, automates ETL pipelines, builds ML models, and exposes insights through interactive dashboards.  
 This project simulates how modern companies design scalable data systems capable of handling analytics, prediction, and real-time processing.
@@ -92,7 +92,7 @@ This layer moves raw data → **Cloud Data Lake**, using:
 
 ### **Tools & Technologies**
 - **Apache Airflow** → Scheduled DAGs for ingestion  
-- **Azure / AWS Storage** → Scalable object storage  
+- **GCP Storage** → Scalable object storage  
 - **Kafka Producers** → Real-time clickstream ingestion  
 
 ### **Pipeline Responsibilities**
